@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\DELL\Desktop\ChallengeConversorDeMoneda\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+207590907.index
+1708950604.index
